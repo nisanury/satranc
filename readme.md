@@ -7,8 +7,8 @@ Satranç tahtası üzerinde bulunan taşlara göre iki tarafın (siyah – beyaz
 ### Açıklama
 Mevcut puanı hesaplama algoritması şöyledir:
 1. Bir taşın tehdit altında olup olmadığının kontrolü, o taşı tehdit eden karşı renkte bir veya birden fazla taş olması durumunda oluşur.
-2. Table 1 Satranç TaşlarıTable 1’de taşların puanları verilmiştir. Eğer bir taş tehdit edilmiyorsa tablodaki puanı alır.
-3. Eğer bir taş karşı tarafın taşlarından herhangi biri tarafından tehdit ediliyorsa, tehdit edilen taşın puanı Table 1’deki puanının yarısı alınır.
+2. Aşağıdaki tabloda taşların puanları verilmiştir. Eğer bir taş tehdit edilmiyorsa tablodaki puanı alır.
+3. Eğer bir taş karşı tarafın taşlarından herhangi biri tarafından tehdit ediliyorsa, tehdit edilen taşın puanı aşağıdaki tablo da verilen puanının yarısı alınır.
 4. At ve Fil taşlarının tehdit durumları kontrol edilir. Siyah ve beyaz taşlar için iki ayrı puan hesaplanır.
 
 **Satranç Taşları ve Puanları**  
