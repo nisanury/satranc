@@ -23,7 +23,7 @@ Mevcut puanı hesaplama algoritması şöyledir:
 
 ## Örnek
 
-![Tahta_1](board1.png)
+![Tahta_1](board2.png)
 
 Figür 1 Tehdit Durumu
 
