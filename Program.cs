@@ -146,9 +146,9 @@ namespace satranc
             {
                 for (j = 0; j < 8; j++)
                 {
-                    ch = arr[i][j].ToCharArray(); // piyon siyah mı beyaz mı çıkar
+                    ch = arr[i][j].ToCharArray(); // taş siyah mı beyaz mı çıkar
 
-                    if (ch[1] == 's') //piyon siyahsa
+                    if (ch[1] == 's') //taş siyahsa
                     {
                         if (ch[0] == 'p')
                             black += value['p'];
@@ -169,7 +169,7 @@ namespace satranc
                         if (ch[0] == 's')
                             black += value['s'];
                     }
-                    else //piyon beyazsa
+                    else //taş beyazsa
                     {
                         if (ch[0] == 'p')
                             white += value['p'];
